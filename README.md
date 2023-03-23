@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahrzad</h1>
 <h3 align="center">I am currently studying Computer Engineering at Shahid Beheshti University. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mchoopani&label=Profile%20views&color=0e75b6&style=flat" alt="mchoopani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrzadJavadiKoushesh&label=Profile%20views&color=0e75b6&style=flat" alt="Shahrzad Koushesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchoopani" alt="mchoopani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchoopani" alt="Shahrzad Koushesh" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
