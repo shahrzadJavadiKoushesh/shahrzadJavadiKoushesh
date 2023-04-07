@@ -1,6 +1,6 @@
 <h3 align="center"> 
      Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
-I'm **Shahrzad**. 
+I'm Shahrzad. 
 </h3>
 <h3 align="center">A passionate learner from Iran</h3>
 
