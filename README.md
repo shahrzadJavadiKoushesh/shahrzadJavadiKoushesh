@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahrzad</h1>
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
+I'm **Shahrzad**.  
 <h3 align="center">A passionate learner from Iran</h3>
 
 
