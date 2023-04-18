@@ -11,7 +11,7 @@ I'm Shahrzad.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/shahrzadJavadiKoushesh)
 
-- 📫 How to reach me via [mail](shahrzadjkoushesh@gmail.com)
+- 📫 How to reach me via [mail](mailto:shahrzadjkoushesh@gmail.com)
 
 <h3 align="center">Connect with me and know about my experience:</h3>
 <p align="center">
