@@ -2,7 +2,7 @@
      Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
 I'm Shahrzad. 
 </h3>
-<h3 align="center">A passionate learner from Iran</h3>
+<h3 align="center">A passionate Computer Engineering Student</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahrzadjavadikoushesh" alt="shahrzadjavadikoushesh" /></a> </p>
