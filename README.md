@@ -4,7 +4,7 @@ I'm Shahrzad.
 </h3>
 <h3 align="center">A passionate Computer Engineering Student</h3>
 
-- 📫 How to reach me via [mail](mailto:shahrzadjkoushesh@gmail.com)
+📫 How to reach me via [mail](mailto:shahrzadjkoushesh@gmail.com)
 
 <h3 align="center">Connect with me and know about my experience:</h3>
 <p align="center">
