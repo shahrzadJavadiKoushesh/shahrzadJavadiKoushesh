@@ -4,10 +4,6 @@ I'm Shahrzad.
 </h3>
 <h3 align="center">A passionate Computer Engineering Student</h3>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahrzadjavadikoushesh" alt="shahrzadjavadikoushesh" /></a> </p>
-
-
 - 📫 How to reach me via [mail](mailto:shahrzadjkoushesh@gmail.com)
 
 <h3 align="center">Connect with me and know about my experience:</h3>
